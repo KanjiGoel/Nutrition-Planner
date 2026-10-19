@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Nutrition Planner</string>
+    <string name="app_full_title">NutriCare Sukkur - Nutrition Planner</string>
+    <string name="home_subtitle">AI-Powered Meal Planning for Mothers &amp; Children</string>
+    <string name="create_new_plan">Create New Plan</string>
+    <string name="create_plan_subtitle">Generate personalized nutrition plan with AI</string>
+    <string name="saved_plans">Saved Plans</string>
+    <string name="saved_plans_subtitle">View and manage your nutrition plans</string>
+</resources>

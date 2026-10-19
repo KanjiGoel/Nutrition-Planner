@@ -1,0 +1,6 @@
+{
+  "name": "Nutrition Planner",
+  "description": "AI-Powered Meal Planning for Mothers & Children with personalized nutrition plans and screening for rural communities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
